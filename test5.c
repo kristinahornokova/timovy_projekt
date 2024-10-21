@@ -130,16 +130,5 @@ int main() {
 }
 
 /*
-tu mame problem pretoze nam vypisuje aj slova resp. jazyky, ktore su na konci WIkipedie
-ale aspon nam uz vypisuje vsetky slova tak ako ma 
-su zapisane pod sebou a nie vedla seba ale to by sme este vedeli zmenit 
-
-
---------------------------------------
-
-uz to ide krasne !!!!!!
-nevypisuje nic len slova z tabulky a vsetky 
-
-
 napr pri Danish nam nezoberie vsetky slova lebo nie su vo forme <a herf= ..... a>
 */
