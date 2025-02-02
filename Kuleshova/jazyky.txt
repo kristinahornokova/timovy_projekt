@@ -1,0 +1,6 @@
+english
+slovak
+russian
+french
+swedish
+german
